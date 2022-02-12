@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-EcommerceAwsApplication<ecommerce_aws>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "mainClass": "com.daytech.ecommerce_aws.EcommerceAwsApplication",
+      "projectName": "ecommerce_aws",
+      "args": ""
+    }
+  ]
+}
